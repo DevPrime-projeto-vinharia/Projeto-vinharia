@@ -12,8 +12,6 @@
     background-position: center;      /* Centraliza a imagem */
     background-repeat: no-repeat;     /* Evita repetição */
 }
-<<<<<<< HEAD
-=======
 body {
     margin: 0;
     padding: 0;
@@ -25,7 +23,6 @@ body {
     background-repeat: no-repeat;     /* Evita repetição */
 }
 
->>>>>>> dev
 
 #container{
     display: flex;

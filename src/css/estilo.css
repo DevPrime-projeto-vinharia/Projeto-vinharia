@@ -3,9 +3,18 @@
     padding: 0%;
     box-sizing: border-box;
 }
-body{
-    background: #f4f4f4;
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-image: url(../assets/vinhosbackground.jpg);
+    background-size: cover;           /* Faz a imagem preencher toda a área */
+    background-position: center;      /* Centraliza a imagem */
+    background-repeat: no-repeat;     /* Evita repetição */
 }
+
+
 #container{
     display: flex;
     flex-direction: column;

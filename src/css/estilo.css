@@ -33,7 +33,7 @@ body {
     min-height: 100vh;
 }
 header{
-    background: darkred;
+    background: rgb(94, 33, 41);
     color: white;
     padding: 20px;
     display: flex;
@@ -118,7 +118,7 @@ button{
     
 }
 button:hover{
-    background: #021b2b;
+    background: #6d012b;
     color:rgb(255, 255, 255);
 }
 aside{
@@ -127,7 +127,7 @@ aside{
     background: #f8f8f8;
 }
 footer{
-    background: #021b2b; 
+    background: rgb(94, 33, 41); 
     color:#fff;
     padding: 20px 0;
     margin-top: auto;
@@ -193,7 +193,7 @@ footer{
 #vinho{
     font-weight: 700;
     margin-top: 50px;
-    color:rgb(0, 0, 0);
+    color: rgb(204, 169, 221);
     font-size: 1.7rem;
 }
 
